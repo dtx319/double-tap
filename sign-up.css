@@ -20,16 +20,17 @@ body {
 }
 
 .hero-left {
+    max-width: 45%;
     align-items: center;
     text-align: center;
 }
 
 .hero-right {
-    width: 45%
+    max-width: 55%;
 }
 
 .hero-image {
-    height: 600px;
+    height: 650px;
 }
 
 .input {
@@ -45,7 +46,6 @@ body {
 
 .header {
     font-size: 35px;
-    margin-right: 30px;
 }
 
 .input-box {
@@ -67,7 +67,7 @@ body {
     margin: 0 auto;
     font-size: 24px;
     background: #0850f8;
-    width: 40%;
+    width: 70%;
 }
 
 .submit-button {
