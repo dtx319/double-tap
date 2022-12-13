@@ -20,13 +20,12 @@ body {
 }
 
 .hero-left {
-    width: 45%;
     align-items: center;
     text-align: center;
 }
 
 .hero-right {
-    width: 55%;
+    width: 45%
 }
 
 .hero-image {
