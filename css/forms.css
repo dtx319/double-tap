@@ -33,6 +33,10 @@ body {
     height: 650px;
 }
 
+.hero-image-signin {
+    height: 50px;
+}
+
 .input {
     display: flex;
     margin: 0 auto;
