@@ -101,6 +101,16 @@
     color: #0850F8;
 }
 
+.card-button {
+    padding: 5px 25px;
+    border-radius: 5px;
+    background: #0850F8;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+    margin-right: 20px;
+}
+
 .chat-logo {
     height: 13px
 }
