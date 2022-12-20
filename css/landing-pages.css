@@ -185,6 +185,26 @@
 
 }
 
+.info-blocks {
+    max-width: 80%;
+    display: flex;
+    justify-content: space-between;
+    /* Double check */
+}
+
+.info-block {
+    max-width: 25px;
+    border-radius: 2px;
+    /* Double check */
+}
+
+.info-img {
+    width: 50%;
+    border-radius: 4px;
+    border: 1px solid gray;
+    /* Double check */
+}
+
 .card-top-left {
     width: 40%;
     padding: 20px;
