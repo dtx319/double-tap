@@ -150,7 +150,32 @@
 
 /* END HERO SECTION */
 
-/* BEGIN INFO-TOP SECTION */
+/* BEGIN INFO SECTION IN HOME */
+
+.info-blocks {
+    max-width: 80%;
+    display: flex;
+    justify-content: space-between;
+    /* Double check */
+}
+
+.info-block {
+    max-width: 25px;
+    border-radius: 2px;
+    /* Double check */
+}
+
+.info-img {
+    width: 50%;
+    border-radius: 4px;
+    border: 1px solid gray;
+    /* Double check */
+}
+
+/* END INFO SECTION IN HOME */
+
+
+/* BEGIN INFO-TOP SECTION IN HOW-IT-WORKS*/
 .info {
     margin: 0 auto;
     justify-content: center; 
@@ -183,26 +208,6 @@
     display: flex;
     justify-content: space-between;
 
-}
-
-.info-blocks {
-    max-width: 80%;
-    display: flex;
-    justify-content: space-between;
-    /* Double check */
-}
-
-.info-block {
-    max-width: 25px;
-    border-radius: 2px;
-    /* Double check */
-}
-
-.info-img {
-    width: 50%;
-    border-radius: 4px;
-    border: 1px solid gray;
-    /* Double check */
 }
 
 .card-top-left {
@@ -238,7 +243,7 @@
 
 /* END INFO-TOP SECTION */
 
-/* BEGIN INFO-BOTTOM SECTION */
+/* BEGIN INFO-BOTTOM SECTION IN HOW-IT-WORKS */
 
 
 .info-card-bottom {
@@ -294,6 +299,11 @@
 
 
 /* END INFO-BOTTOM SECTION */
+
+
+/* BEGIN FEATURES SECTION */
+
+/* END FEATURES SECTION */
 
 /* BEGIN FOOTER SECTION */
 
