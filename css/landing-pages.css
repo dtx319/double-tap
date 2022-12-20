@@ -302,6 +302,13 @@
 
 
 /* BEGIN FEATURES SECTION */
+.features {
+    max-width: 70%;
+}
+
+.features-content-block {
+    display: flex;
+}
 
 /* END FEATURES SECTION */
 
