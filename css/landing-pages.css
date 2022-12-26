@@ -151,12 +151,18 @@
 /* END HERO SECTION */
 
 /* BEGIN INFO SECTION IN HOME */
+.info-home {
+    margin: auto;
+    text-align: center;
+    max-width: 85%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 .info-blocks {
     max-width: 80%;
     display: flex;
     justify-content: space-between;
-    /* Double check */
 }
 
 .info-block {
@@ -297,17 +303,18 @@
 }
 
 
-
 /* END INFO-BOTTOM SECTION */
 
 
 /* BEGIN FEATURES SECTION */
 .features {
     max-width: 70%;
+    text-align: center;
 }
 
 .features-content-block {
     display: flex;
+    text-align: center;
 }
 
 /* END FEATURES SECTION */
