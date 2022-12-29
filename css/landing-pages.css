@@ -150,7 +150,7 @@
 
 /* END HERO SECTION */
 
-/* BEGIN INFO SECTION IN HOME */
+/* BEGIN INFO SECTION IN 'HOME' */
 .info-home {
     margin: auto;
     text-align: center;
@@ -179,10 +179,10 @@
     /* Double check */
 }
 
-/* END INFO SECTION IN HOME */
+/* END INFO SECTION IN 'HOME' */
 
 
-/* BEGIN INFO-TOP SECTION IN HOW-IT-WORKS*/
+/* BEGIN INFO-TOP SECTION IN 'HOW-IT-WORKS'*/
 .info {
     margin: 0 auto;
     justify-content: center; 
@@ -250,7 +250,7 @@
 
 /* END INFO-TOP SECTION */
 
-/* BEGIN INFO-BOTTOM SECTION IN HOW-IT-WORKS */
+/* BEGIN INFO-BOTTOM SECTION IN 'HOW-IT-WORKS' */
 
 
 .info-card-bottom {
