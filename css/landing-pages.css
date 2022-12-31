@@ -309,13 +309,18 @@
 
 /* BEGIN FEATURES SECTION */
 .features {
-    max-width: 70%;
     text-align: center;
 }
 
 .features-content-block {
     display: flex;
     text-align: center;
+    justify-content: space-evenly;
+}
+
+.features-card {
+    max-width: 35%;
+    margin-bottom: 15px;
 }
 
 /* END FEATURES SECTION */
