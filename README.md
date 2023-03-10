@@ -1,1 +1,1 @@
-A comprehensive website consisting of four landing pages that were created using HTML and CSS. The landing pages are the Home page, How-It-Works  page, Sign-In page, and Sign-Up page.
+A static, comprehensive website consisting of four landing pages that were created using HTML and CSS. The landing pages are the Home page, How-It-Works  page, Sign-In page, and Sign-Up page.
