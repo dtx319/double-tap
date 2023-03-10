@@ -120,6 +120,11 @@
     color: gray;
 }
 
+#links:hover {
+    text-decoration: none;
+    color: #0850F8;
+}
+
 .hero-actions {
     font-size: 13px;
     color: #0850F8;
